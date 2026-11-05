@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-combat-nuxt",
+  "capabilityKey": "liberusoftware/module-browser-game-combat",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-browser-game-combat-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/browser-game/nextjs/combat.md",
+  "presentationPlan": "projects/browser-game/nuxt/combat.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
